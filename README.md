@@ -50,3 +50,17 @@ Upload the zip to LMS and include the public repository link.
 
 
 
+## Example output
+```bash
+$ python main.py
+Divide & Conquer min/max of [12, -3, 7, 7, 42, 0, 5] -> (-3, 42)
+k=1: -3
+k=2: 0
+k=3: 5
+k=4: 7
+k=5: 7
+k=6: 12
+k=7: 42
+
+
+
