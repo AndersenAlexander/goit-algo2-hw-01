@@ -14,6 +14,9 @@
 
 ## Project Layout
 
+<img width="683" height="334" alt="Screenshot 2025-10-25 211154" src="https://github.com/user-attachments/assets/ae1875fa-8bd2-497a-bbd7-8de2c1902408" />
+
+
 ## How to run (Windows PowerShell)
 
 ```powershell
@@ -43,3 +46,4 @@ For packaging, exclude .venv/, **pycache**/, .pytest_cache/.
 Zip the project (without .venv/ & caches): HW1_FirstName LastName.zip
 
 Upload the zip to LMS and include the public repository link.
+
